@@ -1,0 +1,14 @@
+{
+	"from_url" : "#2019/02/22/0000Z",
+	"to_url" : "#2019/02/22/0100Z",
+	"mode_url" : "particulates/surface/level/anim=off/overlay=pm2.5",
+	"projection_url" : "orthographic=-234.04,36.14,1377",
+	"wait_seconds": 1,
+	"selenium_port": 9515,
+	"selenium_window_width": 1296,
+	"selenium_window_height": 856,
+	"selenium_webdriver_path": "tools/chromedriver.exe",
+	"selenium_browser" : "chrome",
+	"frames_path" : "frames",
+	"time_stamp": true
+}
